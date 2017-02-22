@@ -1,8 +1,9 @@
 <%@ page contentType="text/html; charset=UTF-8"%>
-<footer class="footer">
-  <div class="container">
-    <p class="text-muted">Esto es una página de demostración; aquí suele ir información de copyright/política de privacidad/componentes usados.</p>
-  </div>
-</footer>
+<!-- Footer -->
+<div class="row">
+	<div class="col-lg-12">
+		<p>Copyright &copy; Omniscracia 2015</p>
+	</div>
+</div>
 </body>
 </html>

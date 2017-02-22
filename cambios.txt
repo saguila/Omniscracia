@@ -1,0 +1,4 @@
+se ha corregido los fallos de seguridad respecto al acceso y se ha usado el owasp encoder escapar,
+se ha corregido el mal uso del getTokenForSession
+se ha rellenado la parte de FAQ,se ha implementado el medio de recalcular las votaciones,
+se ha corregido el mostrar asignaturas
